@@ -20,5 +20,5 @@ Particular attention will be given to the JKM–TTF spread, which captures compe
 3. Henry Hub should behave differently from TTF and JKM. 
     - It represents U.S. pipeline gas rather than delivered LNG, so the connection between Henry Hub and international LNG prices depends on U.S. liquefaction capacity and export demand.
 
-4. rice transmission may therefore be nonlinear. 
+4. Price transmission may therefore be nonlinear. 
     - A $1/MMBtu international price shock may have very different effects when inventories are comfortable than when storage or infrastructure is scarce.
