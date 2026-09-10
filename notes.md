@@ -230,7 +230,9 @@ This provides a mechanism through which an LNG producer with market power can ma
 
 "(A) is rather general: it does not rely on any specific functional-form assumptions
 on demand and cost functions (e.g., linear, constant-elasticity, etc.), or on a particular form of competitive conduct in each export markets. Commonly-used models,
-e.g., perfect competition, monopoly, Cournot-Nash oligopoly, dominant Örm with a
+e.g., perfect competition, monopoly, Cournot-Nash oligopoly, dominant firm with a
 competitive fringe, etc."(pg 12)
+
+
 
 
